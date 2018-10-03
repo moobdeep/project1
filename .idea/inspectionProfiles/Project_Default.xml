@@ -5,6 +5,8 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="models.*" />
+          <option value="sqlalchemy.orm.scoping.scoped_session.execute" />
+          <option value="sqlalchemy.orm.scoping.scoped_session.commit" />
         </list>
       </option>
     </inspection_tool>
